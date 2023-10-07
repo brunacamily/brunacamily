@@ -1,4 +1,4 @@
-<h1> Olá, sou o Bruna!👋 <br/> </h1>
+<h1> Olá, sou a Bruna!👋 <br/> </h1>
 
 Sou aluna da <b>UFPEL</b> no curso de <b>C.C.</b> 
 
